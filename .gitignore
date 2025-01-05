@@ -1,2 +1,7 @@
 pycache/
-data/*
+
+# Ignore all files in the data directory
+/data/*
+
+# Except for the readMe.txt file
+!/data/readMe.txt
